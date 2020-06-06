@@ -1,3 +1,4 @@
 created file2.txt
 
-bug fix
+bug fix --- feature added by user1
+
