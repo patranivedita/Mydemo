@@ -2,3 +2,7 @@ created file2.txt
 
 bug fix --- feature added by user1
 
+bug fix - edited my me in local
+
+some new change
+
